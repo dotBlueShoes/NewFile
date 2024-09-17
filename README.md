@@ -5,6 +5,8 @@ This is an old project of mine from around 2018-2019. My educational goal was to
 
 During this process I wanted to learn more about WinAPI subclasses, resources & manifest files. 
 
+![alt text](https://github.com/dotBlueShoes/NewFile/blob/master/extras/media1.png?raw=true)
+
 > *Weirdly I use this app almost everyday to create files on the fly.*
 
 ---
