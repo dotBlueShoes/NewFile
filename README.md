@@ -22,3 +22,21 @@ It basically involves creating a few properties in the Windows registry.
 I recommend the use of **arrow-keys** and **enter-key** *(when done)* when in dialog popup.
 
 Writing in `Extension Name` field is not necessary. For Example if you want to create a file named `.gitignore` you'll type all that in `File Name` property
+
+---
+
+### Initialize CMAKE from CMD
+
+`.quail/cmake_refresh.bat '[PROJECT_DIR]' '[VCVARSALL_DIR]'`
+
+### Build Profile from CMD
+
+`.quail/build.bat '[PROJECT_DIR]' '[VCVARSALL_DIR]' 'x64-win-debug'`
+
+`.quail/build.bat '[PROJECT_DIR]' '[VCVARSALL_DIR]' 'x64-win-release'`
+
+### Run from CMD
+
+`.quail/exe_with_res.ps1 '[PROJECT_DIR]\build\x64-win-debug\project\' 'NewFile'`
+
+`.quail/exe_with_res.ps1 '[PROJECT_DIR]\build\x64-win-release\project\' 'NewFile'`
