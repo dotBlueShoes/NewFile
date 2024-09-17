@@ -1,5 +1,5 @@
 # NewFile 
-It's a small windows application that is meant to be run from within the RIGHT-CLICK-CONTEXT-MENU.
+It's a small windows application that simply creates a new file is meant to be run from within the RIGHT-CLICK-CONTEXT-MENU.
 
 This is an old project of mine from around 2018-2019. My educational goal was to create a dialog-only application.
 
